@@ -75,7 +75,7 @@ public class App {
         System.out.println("2. Update book");
         System.out.println("3. Delete book");
         System.out.println("4. Search books");
-        System.out.println("5. View all books");
+        System.out.println("5. View inventory");
         System.out.println("0. Exit");
 
         System.out.print("\nEnter the number of your choice: ");
